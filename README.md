@@ -49,5 +49,19 @@ This game uses colorama for colors.
 • Date: 2026
 
 • Version: 4.0
-##
-**Good luck! You'll need it!** ❤️
+
+## 📝 Design Notes 
+This project was refactored to improve code structure and readability.
+
+• The main focus was on:
+
+• separating game logic from user interaction
+
+• validating user input explicitly
+
+• organizing the program around a clear main() flow
+
+No new features were added — the goal was cleaner, more maintainable code.
+
+This refactor reflects my ongoing focus on Python fundamentals and clean program structure.
+
