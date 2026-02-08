@@ -29,7 +29,6 @@ This game uses colorama for colors.
    ```bash 
    pip install colorama
 
-
 3. **Run the game:**
    ```bash 
    python Guess_The_Number_Game.py
@@ -45,7 +44,7 @@ This game uses colorama for colors.
 
 5. Follow the hints (Higher/Lower) until you win or run out of lives!
 
-## 👤 Author
+## 👩‍💻 Author
 • **Romina Valehi**
 
 • Date: 2026
